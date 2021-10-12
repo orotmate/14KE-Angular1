@@ -1,0 +1,22 @@
+{
+  "name": "14ke-angular1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orotmate/14KE-Angular1.git"
+  },
+  "author": "Orot Máté",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orotmate/14KE-Angular1/issues"
+  },
+  "homepage": "https://github.com/orotmate/14KE-Angular1#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
